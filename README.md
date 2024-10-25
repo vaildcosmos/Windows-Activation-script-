@@ -33,4 +33,3 @@ Latest Version: 2.7
 Release date: 6-Sep-2024
 Troubleshooting / Help
 Download Original Windows & Office
-Homepage - https://massgrave.dev/
