@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://discord.gg/tVFN4N84PP"><img src="https://img.shields.io/badge/Chat%20with%20us%20on%20Discord--blue?style=social&logo=discord" alt="Chat with us without signup" title="Chat with us without signup"></a>
     <a href="https://www.reddit.com/r/MAS_Activator"><img src="https://img.shields.io/badge/MAS%20on%20Reddit--orange?style=social&logo=reddit" alt="MAS on Reddit" title="MAS on Reddit"></a>
-    <a href="https://twitter.com/massgravel"><img src="https://img.shields.io/twitter/follow/massgravel" alt="Follow us on X" title="Follow us on X"></a>
+    <a href="https://twitter.com/massgravel"><img src="https://img.shields.io/twitter/follow/offsec" alt="Follow us on X" title="Follow us on X"></a>
 </p>
 
 <hr>
