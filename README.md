@@ -18,17 +18,9 @@
 
 1.   Download de program
 2.   Execute a select option 0
-```
-
-```
-
-```
-irm https://massgrave.dev/get | iex
-```
-3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
-4.   That's all.
-
----
+3.   
+4.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
+5.   That's all.
 
 - On older Windows builds you may need to run the below command before,  
 `[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`  
